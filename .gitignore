@@ -1,0 +1,19 @@
+# Node.js dependencies
+node_modules/
+
+# npm log files
+npm-debug.log
+yarn-error.log
+
+# Environment files
+.env
+
+# VS Code settings
+.vscode/
+
+# Operating system files
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Logs
+*.log
